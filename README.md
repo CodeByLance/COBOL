@@ -1,10 +1,10 @@
-Hello COBOL, my old friend
-I've come to work with you again
-Because a vision softly creeping
-Left its seeds while I was sleeping
-And the vision that was planted in my brain
-Still remains
-Within new lines of COBOL
+Hello COBOL, my old friend  
+I've come to work with you again  
+Because a vision softly creeping  
+Left its seeds while I was sleeping  
+And the vision that was planted in my brain  
+Still remains  
+Within new lines of COBOL  
 
 In restless dreams, I walked alone
 Unstructured code of modern zones
